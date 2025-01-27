@@ -1,8 +1,8 @@
 <div align="center">
 
-# DigiTime Toolbox (Prototype)
+# TimeMaster Toolbox (Prototype)
 
-DigiTime Toolbox is a prototype web application that provides various time-related calculations and utilities. Built with vanilla JavaScript, HTML, and CSS, it offers a simple interface for interacting with the DigiDates API. Please note that this is a work in progress, and the API responses are currently displayed in raw JSON format.
+TimeMaster Toolbox is a prototype web application that provides various time-related calculations and utilities. Built with vanilla JavaScript, HTML, and CSS, it offers a simple interface for interacting with the DigiDates API. Please note that this is a work in progress, and the API responses are currently displayed in raw JSON format.
 
 ![TimeMaster](https://github.com/user-attachments/assets/d723fa10-88eb-4205-9050-9f08969a5776)
 
