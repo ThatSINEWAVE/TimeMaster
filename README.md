@@ -1,8 +1,12 @@
+<div align="center">
+
 # DigiTime Toolbox (Prototype)
 
 DigiTime Toolbox is a prototype web application that provides various time-related calculations and utilities. Built with vanilla JavaScript, HTML, and CSS, it offers a simple interface for interacting with the DigiDates API. Please note that this is a work in progress, and the API responses are currently displayed in raw JSON format.
 
 ![TimeMaster](https://github.com/user-attachments/assets/d723fa10-88eb-4205-9050-9f08969a5776)
+
+</div>
 
 ## Prototype Status
 
@@ -13,6 +17,12 @@ This is currently a prototype/proof of concept with the following limitations:
 - UI is functional but will be enhanced in future versions
 - Mobile responsiveness needs improvement
 - Limited input validation
+
+<div align="center">
+
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## Current Features
 
